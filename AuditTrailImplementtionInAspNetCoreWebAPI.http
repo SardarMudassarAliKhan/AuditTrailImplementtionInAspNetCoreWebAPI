@@ -1,0 +1,6 @@
+@AuditTrailImplementtionInAspNetCoreWebAPI_HostAddress = http://localhost:5214
+
+GET {{AuditTrailImplementtionInAspNetCoreWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
